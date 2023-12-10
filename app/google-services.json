@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350335449898",
+    "project_id": "universe-703f5",
+    "storage_bucket": "universe-703f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350335449898:android:8c9e9cef8145e722117c53",
+        "android_client_info": {
+          "package_name": "com.bydaksh.universecommunity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYii2LbIwK7TOk2YqWVRapye637UfStao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
